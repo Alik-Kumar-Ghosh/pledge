@@ -13,6 +13,7 @@ It is a platform to reimagine about places we put our efforts into as developers
 2. Install and use the correct version of Node using [NVM](https://github.com/nvm-sh/nvm)
 
    ```sh
+
    cd pledge
    nvm install
    ```
